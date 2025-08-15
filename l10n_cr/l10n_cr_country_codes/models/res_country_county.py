@@ -7,5 +7,5 @@ class ResCountryCounty(models.Model):
     _order = 'name'
 
     code = fields.Char(required=True)
-    state_id = fields.Many2one("res.country.state", string="Province", required=True)
+    state_id = fields.Many2one("res.country.state", string="Province", required=False)
     name = fields.Char(required=True)
