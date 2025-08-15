@@ -7,5 +7,5 @@ class ResCountryNeighborhood(models.Model):
     _order = 'name'
 
     code = fields.Char(required=True)
-    district_id = fields.Many2one("res.country.district", string="District", required=True)
+    district_id = fields.Many2one("res.country.district", string="District", required=False)
     name = fields.Char(required=True)
