@@ -1,4 +1,4 @@
-# 📢 Aviso Importante: Licencia y Colaboración Obligatoria 📢
+# 📢 Aviso Importante- Licencia y Colaboración Obligatoria 📢
 
 Este proyecto está licenciado bajo la **Licencia GNU Affero General Public License v3 (AGPL v3)**.  
 **Todos los usuarios y desarrolladores que utilicen, modifiquen o distribuyan este módulo están obligados a colaborar en su mantenimiento y mejora, conforme a los términos de la licencia.**  
